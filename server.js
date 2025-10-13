@@ -8,7 +8,7 @@ app.post('/usuarios', (req,res) =>{
     res.send("Sasuke")
 })
 app.get('/usuarios', (req, res) => {
-    res.send("Naruto")
+    res.send("Narutoo")
 })
 
 app.listen(3000)
