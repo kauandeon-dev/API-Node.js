@@ -5,10 +5,10 @@ const app = express()
 
 
 app.post('/usuarios', (req,res) =>{
-    res.send("Sasuke")
+    res.send("Sasukee")
 })
 app.get('/usuarios', (req, res) => {
-    res.send("Narutoo")
+    res.send("Narutooo")
 })
 
 app.listen(3000)
