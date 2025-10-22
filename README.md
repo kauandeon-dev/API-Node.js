@@ -66,7 +66,7 @@ Para iniciar o servidor, use o script `start` definido no seu `package.json`:
 ```bash
 npm start
 ```
-Se preferir que seu server se atualize automaticamente após cada salvamento, use o scrito `dev` definido no `package.json`:
+Se preferir que seu server se atualize automaticamente após cada salvamento, use o script `dev` definido no `package.json`:
 ```bash
 npm run dev
 ```
